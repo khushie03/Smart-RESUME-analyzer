@@ -1,0 +1,11 @@
+streamlit
+pandas
+base64
+datetime
+streamlit-tags
+pillow
+pymysql
+plotly
+pdfminer.six
+youtube-dl
+scikit-learn
