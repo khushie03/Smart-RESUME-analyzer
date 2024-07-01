@@ -18,7 +18,7 @@ from pdfminer.high_level import extract_text
 cnx = pymysql.connect(
     host="localhost",
     user="root",
-    password="Prusshita@1234",
+    password="Your sql Password",
     database="sra"
 )
 csv_file_path = r"C:\Users\HP\Downloads\archive (4)\amazon_jobs_dataset.csv"
