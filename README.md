@@ -41,7 +41,7 @@ The Smart Resume Analyzer is a Streamlit-based web application that analyzes res
     cnx = pymysql.connect(
         host="localhost",
         user="root",
-        password="Prusshita@1234",
+        password="Your sql password",
         database="sra"
     )
     ```
