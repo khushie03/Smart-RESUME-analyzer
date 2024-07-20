@@ -1,6 +1,6 @@
 # Smart Resume Analyzer
 
-The Smart Resume Analyzer is a Streamlit-based web application that analyzes resumes, provides skill recommendations, and suggests job opportunities and learning resources. It also has an admin panel to manage user data and visualize insights.
+The Smart Resume Analyzer is a Streamlit-based web application that analyzes resumes, provides skill recommendations, and suggests job opportunities and learning resources. It also has an admin panel to manage user data and visualize valuable insights.
 
 ## Features
 
